@@ -59,7 +59,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/trendkart.git
+git clone https://github.com/Anshu6296/trendkart.git
 Move to XAMPP htdocs
 Place the project folder inside your xampp/htdocs directory.
 
@@ -82,7 +82,7 @@ Start XAMPP and Run the Site
 
 Start Apache and MySQL.
 
-Visit: http://localhost/trendkart/hm.php
+Visit: http://localhost/trendkart/home.php
 
 🔑 Admin Login
 You can access the admin panel by logging into /admin/ with admin credentials (set manually in DB or via a login system if implemented).
