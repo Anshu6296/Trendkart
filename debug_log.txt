@@ -1,0 +1,10 @@
+Received parameters: 
+Total Price: 25999
+Total Products: 0
+Card: CARD
+Card Number: 7894561230122584
+Banking Name: 
+Exp Month: 9
+Exp Year: 2030
+CVV: 123
+Initial Balance: 0
